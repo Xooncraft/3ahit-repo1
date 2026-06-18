@@ -18,5 +18,11 @@ public class Main {
         System.out.println("Kosten: " + kurs.kostenBerechnen(15));
         System.out.println("Freie Plätze: " + kurs.freiePlaetze(20));
         System.out.println("Kurs voll? " + kurs.kursVoll(20));
+
+
+
+        Zaina buch = new Zaina("Harry Potter", "J.K. Rowling");
+
+        System.out.println(buch.ausleihen("Zaina"));
     }
 }
