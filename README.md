@@ -1,2 +1,2 @@
 # 3ahit-repo1
-hello github :)
+hello github von Aldaken, Demeter, Simic :)
