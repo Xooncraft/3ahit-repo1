@@ -1,5 +1,5 @@
 package GitAufgabe;
-
+//DANIEL WAR HIER :D
 public class Julia {
 
     private String tanzstil;
