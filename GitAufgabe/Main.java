@@ -10,5 +10,11 @@ public class Main {
         double endPreis = meinHandy.berechneRabatt(10.0);
 
         System.out.println("Preis nach Rabatt: " + endPreis + "$");
+
+        Julia kurs = new Julia("Hip-Hop", 12);
+
+        System.out.println("Kosten: " + kurs.kostenBerechnen(15));
+        System.out.println("Freie Plätze: " + kurs.freiePlaetze(20));
+        System.out.println("Kurs voll? " + kurs.kursVoll(20));
     }
 }
