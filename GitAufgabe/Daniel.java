@@ -32,3 +32,4 @@ public class Daniel {
         return "Produkt: " + name + " kostet " + preis + "$";
     }
 }
+//hihi julia war hier :3
