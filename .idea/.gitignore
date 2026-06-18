@@ -9,8 +9,3 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-/out/
-*.class
-
-/.idea/
-*.iml
