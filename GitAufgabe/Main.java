@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println("Preis nach Rabatt: " + endPreis + "$");
 
+
+
         Julia kurs = new Julia("Hip-Hop", 12);
 
         System.out.println("Kosten: " + kurs.kostenBerechnen(15));
